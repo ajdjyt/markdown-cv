@@ -14,7 +14,7 @@
 
   > _Python_ _Pytorch_
 
-- ##### Jan 2023 – Presenet
+- ##### Jan 2023 – Present
 
   ### Next Tech Lab
 
