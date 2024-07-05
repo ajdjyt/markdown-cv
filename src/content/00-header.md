@@ -1,5 +1,5 @@
 ### Hello! My name is
 
-# Arnav Fernandes
+# Arnav Joshua Fernandes
 
 and I'm a MLops engineer.
