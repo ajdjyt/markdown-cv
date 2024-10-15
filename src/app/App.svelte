@@ -9,13 +9,15 @@
   import Education from '../content/04-education.md';
   import Hobby from '../content/05-hobby.md';
   import Footer from '../content/06-footer.md';
+  import Resume from '../content/07-resume.md'
 
   const sections = [
     { id: 'hello', component: Hello },
+    { id: 'resume', component: Resume},
     { id: 'experience', component: Experience },
     { id: 'skills', component: Skills },
     { id: 'education', component: Education },
-    { id: 'hobby', component: Hobby },
+    { id: 'hobby', component: Hobby }
   ];
 </script>
 
@@ -36,7 +38,6 @@
       <svelte:component this={section.component} />
     </Section>
   {/each}
-<a href="/resume.pdf" alt="Download Resume" target="_blank">Download Resume</a>
   <!-- <img src="images/me.jpeg" id="me" alt="Heisann" /> -->
 </main>
 
