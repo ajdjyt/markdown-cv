@@ -4,7 +4,7 @@ MLOps Engineer with deep interests in both fields.
 
 In love with coding, sound, and visuals.
 
-- [arjf.me](https://arjf.me)
+- [arjf.dev](https://arjf.dev)
 - [arjf@protonmail](mailto:arjf@protonmail.com)
 
 ### Follow
